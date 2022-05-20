@@ -12,3 +12,6 @@ is a project that aims to not only scrape the top movies according IMDb and crea
 
 "Valorant_Player_Stats"
 is a project that aims to scrape various types of player data from the top performing Valorant players. The data will then be turned into a dataframe to export as a CSV file. In addition, the code will print description statistics for the player stats.
+
+"Student_Performance"
+is a project that aims to utilize data visualization in Python to uncover certain patterns in that affect student performance. Various python libraries were imported for this assignment such as 'Pandas', 'Matplotlib', and 'Seaborn'. The student performance data was taken from https://www.kaggle.com/code/spscientist/student-performance-in-exams
