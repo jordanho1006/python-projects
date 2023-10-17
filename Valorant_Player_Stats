@@ -3,11 +3,8 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "CIS 3120 - Homework 2 Part 1.ipynb",
       "provenance": [],
-      "collapsed_sections": [],
-      "authorship_tag": "ABX9TyNYZl7E1hiBdp2Q+/HlyhWP",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyPAVTX/+iUz837zM41ycI1f"
     },
     "kernelspec": {
       "name": "python3",
@@ -20,18 +17,8 @@
   "cells": [
     {
       "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/jordanho1006/python-projects/blob/main/Valorant_Player_Stats\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "Question #01 - Web Scraping"
+        "Web Scraping - Competitive Valorant Stats"
       ],
       "metadata": {
         "id": "ZCn1Z8HJX9Pa"
@@ -45,7 +32,6 @@
       },
       "outputs": [],
       "source": [
-        "#using the weather API to find the weather data for a single city\n",
         "#import the necessary libraries\n",
         "import requests\n",
         "import pandas as pd\n",
@@ -104,7 +90,7 @@
         "kd_ratios = player_stats[1::10]\n",
         "for kd_ratio in kd_ratios:\n",
         "  kd.append(float(kd_ratio))\n",
-        "  \n",
+        "\n",
         "adr = []\n",
         "adr_ratios = player_stats[3::10]\n",
         "for adr_ratio in adr_ratios:\n",
