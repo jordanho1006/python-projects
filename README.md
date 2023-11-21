@@ -3,7 +3,9 @@ A collection of Python projects I have created either for school, work or in my 
 
 # Retail Transaction Insights through Data Visualization and Machine Learning (November 2023) | Retail_Transaction_Insights.ipynb
 • Applied machine learning algorithms, including K-Means clustering, for customer segmentation and retail transaction analysis.
+
 • Utilized market basket analysis techniques such as Apriori algorithm and association rule mining to uncover purchasing patterns.
+
 • Conducted comprehensive exploratory data analysis (EDA) using Pandas, leveraging data visualizations with Matplotlib and Seaborn to reveal patterns and trends, enhancing data-driven insights.
 
 # NBA Game Outcome Prediction using Web Scraping and Machine Learning (September 2023) | NBA_Outcome_Predictor.ipynb
