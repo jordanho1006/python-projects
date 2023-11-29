@@ -7,20 +7,27 @@ A collection of Python projects I have created either for school, work, or in my
 ### Retail Transaction Insights through Data Visualization and Machine Learning (November 2023)
 - **File:** `Retail_Transaction_Insights.ipynb`
 - **Objectives:**
-  - Derive actionable insights from retail transactions through advanced analytics, enhancing data-driven decision-making in the retail domain.
+  - Derive actionable insights from retail transactions through advanced analytics for enhanced data-driven decision-making.
 - **Key Points:**
-  - Applied machine learning algorithms, including *K-Means clustering*, for customer segmentation and retail transaction analysis.
-  - Utilized market basket analysis techniques such as *Apriori algorithm* and *association rule mining* to uncover purchasing patterns.
-  - Conducted comprehensive exploratory data analysis (*EDA*) using *Pandas*, leveraging data visualizations with *Matplotlib* and *Seaborn* to reveal patterns and trends, enhancing data-driven insights.
+  - Applied machine learning techniques, including *K-Means clustering*, to analyze retail transactions and uncover distinct customer segments.
+  - Utilized market basket analysis techniques (Apriori algorithm and association rule mining) to reveal intricate purchasing patterns.
+  - Conducted thorough exploratory data analysis (*EDA*) using *Pandas*, leveraging data visualizations with *Matplotlib* and *Seaborn* to reveal patterns and trends, enhancing data-driven insights.
+- **Technical Details:**
+  - Successfully managed and accessed Kaggle API credentials for seamless dataset download.
+  - Implemented effective data cleaning strategies, addressing missing values and ensuring proper data type conversions.
 
 ### NBA Game Outcome Prediction using Web Scraping and Machine Learning (September 2023)
 - **File:** `NBA_Outcome_Predictor.ipynb`
 - **Objective:**
   - Develop a predictive system for NBA game outcomes using machine learning and advanced data analysis techniques.
 - **Key Points:**
-  - Constructed predictive models using *Scikit-Learn's machine learning algorithms* to determine the winning NBA team in each game.
-  - Employed advanced web scraping tools with *BeautifulSoup* to systematically collect comprehensive NBA game data, including crucial statistics and player performances, showcasing data collection and preprocessing skills.
-  - Demonstrated proficiency in engineering meaningful features from raw NBA data, encompassing *team statistics, player attributes, and historical performance indicators*, leveraging *Pandas* for efficient data manipulation.
+  - Employed machine learning techniques in *Scikit-Learn* for accurate NBA game outcome predictions, showcasing predictive modeling proficiency.
+  - Utilized advanced web scraping with *BeautifulSoup* to systematically collect comprehensive NBA game and player performance data, demonstrating skills in data extraction and automation.
+  - Applied a data-driven approach using *Pandas* for feature engineering, integrating raw NBA data like team statistics, player attributes, and historical performance indicators to enhance predictive models.
+- **Technical Details:**
+  - Effectively extracting unstructured data embedded in HTML comments which was essential for capturing dynamically loaded data via JavaScript, showcasing adaptability in handling complex web structures.
+  - Implemented time series analysis, including the integration of rolling averages, to capture temporal patterns in NBA game data.
+  - Fine-tuned and optimized predictive models for accurate outcomes across various NBA seasons.
 
 ### Student Performance Data Visualization (June 2022)
 - **File:** `Student_Performance.ipynb`
