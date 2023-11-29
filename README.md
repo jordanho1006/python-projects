@@ -4,7 +4,7 @@ A collection of Python projects I have created either for school, work, or in my
 
 ## Projects
 
-### Retail Transaction Insights through Data Visualization and Machine Learning (November 2023)
+### [Retail Transaction Insights through Data Visualization and Machine Learning (November 2023)] (https://github.com/jordanho1006/python-projects/blob/main/Retail_Transaction_Insights.ipynb)
 - **File:** `Retail_Transaction_Insights.ipynb`
 - **Objectives:**
   - Derive actionable insights from retail transactions through advanced analytics for enhanced data-driven decision-making.
