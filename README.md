@@ -2,6 +2,15 @@
 
 A collection of Python projects I have created either for school, work, or in my free time.
 
+## Table of Contents
+1. [Retail Transaction Insights](#retail-transaction-insights)
+2. [NBA Game Outcome Prediction](#nba-game-outcome-prediction)
+3. [Student Performance Data Visualization](#student-performance-data-visualization)
+4. [Top Movies Data Scraper and OMDb API Integration](#top-movies-data-scraper-and-omdb-api-integration)
+5. [CUNY Athlete Heights Data Scraper and Analysis](#cuny-athlete-heights-data-scraper-and-analysis)
+6. [Valorant Player Stats Data Scraper and Analysis](#valorant-player-stats-data-scraper-and-analysis)
+7. [U.S. City Weather Data Analysis with Openweathermap API](#us-city-weather-data-analysis-with-openweathermap-api)
+
 ## Projects
 
 ### Retail Transaction Insights through Data Visualization and Machine Learning (November 2023)
