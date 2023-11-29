@@ -2,7 +2,7 @@
 
 A collection of Python projects I have created either for school, work, or in my free time.
 
-## Table of Contents
+## Project Index
 1. [Retail Transaction Insights](#retail-transaction-insights)
 2. [NBA Game Outcome Prediction](#nba-game-outcome-prediction)
 3. [Student Performance Data Visualization](#student-performance-data-visualization)
