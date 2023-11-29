@@ -17,7 +17,7 @@ A collection of Python projects I have created either for school, work, or in my
   - Implemented effective data cleaning strategies, addressing missing values and ensuring proper data type conversions.
 
 ### NBA Game Outcome Prediction using Web Scraping and Machine Learning (September 2023)
-- **File:** `NBA_Outcome_Predictor.ipynb`
+- **File:** [`NBA_Outcome_Predictor.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/NBA_Outcome_Predictor.ipynb)
 - **Objective:**
   - Develop a predictive system for NBA game outcomes using machine learning and advanced data analysis techniques.
 - **Key Points:**
@@ -30,7 +30,7 @@ A collection of Python projects I have created either for school, work, or in my
   - Fine-tuned and optimized predictive models for accurate outcomes across various NBA seasons.
 
 ### Student Performance Data Visualization (June 2022)
-- **File:** `Student_Performance.ipynb`
+- **File:** [`Student_Performance.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/Student_Performance.ipynb)
 - **Objective:**
   - Perform comprehensive data analysis and visualization on student performance data, identifying correlations and dependencies to enable data-informed decisions for educational institutions.
 - **Key Points:**
@@ -39,7 +39,7 @@ A collection of Python projects I have created either for school, work, or in my
   - Utilized a comprehensive dataset sourced from *Kaggle*, ensuring the relevance and accuracy of insights into student performance, highlighting data source management skills.
 
 ### Top Movies Data Scraper and OMDb API Integration (May 2022)
-- **File:** `Top_Movies.ipynb`
+- **File:** [`Top_Movies.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/Top_Movies.ipynb)
 - **Objectives:**
   - Build a movie data analysis system through multiple sources, enabling insightful film analysis and appreciation through data-informed decision-making.
 - **Key Points:**
@@ -48,7 +48,7 @@ A collection of Python projects I have created either for school, work, or in my
   - Demonstrated proficiency in Python to derive meaningful insights, compute descriptive statistics, and offer comprehensive analysis for data-informed decisions in film analysis and appreciation, highlighting data analysis abilities.
 
 ### CUNY Athlete Heights Data Scraper and Analysis (May 2022)
-- **File:** `CUNY_Athlete_Heights.ipynb`
+- **File:** [`CUNY_Athlete_Heights.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/CUNY_Athlete_Heights.ipynb)
 - **Objectives:**
   - Providing sports analytics by gathering and organizing height data from CUNY's volleyball and swimming team rosters.
 - **Key Points:**
@@ -57,7 +57,7 @@ A collection of Python projects I have created either for school, work, or in my
   - Demonstrated analytical prowess by computing *average heights* and identifying the top five tallest and shortest players in each gender category, emphasizing *data analysis abilities*.
 
 ### Valorant Player Stats Data Scraper and Analysis (May 2022)
-- **File:** `Valorant_Player_Stats.ipynb`
+- **File:** [`Valorant_Player_Stats.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/Valorant_Player_Stats.ipynb)
 - **Objectives:**
   - Extract/analyze diverse player data from top-performing Valorant players to provide valuable insights into player performance for strategic decision-making.
 - **Key Points:**
@@ -66,7 +66,7 @@ A collection of Python projects I have created either for school, work, or in my
   - Presented valuable measures such as *average performance*, highlighted top-performing players, and identified statistical outliers, providing insights into Valorant player performance for strategic decision-making, emphasizing *data analysis capabilities*.
 
 ### U.S. City Weather Data Analysis with Openweathermap API (April 2022)
-- **File:** `Openweathermap_API.ipynb`
+- **File:** [`Openweathermap_API.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/Openweathermap_API.ipynb)
 - **Objectives:**
   - Analyze U.S. city weather data using the Openweathermap API.
 - **Key Points:**
