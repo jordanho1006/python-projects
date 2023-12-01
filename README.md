@@ -28,6 +28,7 @@ Feel free to navigate through the projects listed below, each providing a unique
 - **Technical Details:**
   - Successfully managed and accessed Kaggle API credentials for seamless dataset download.
   - Implemented effective data cleaning strategies, addressing missing values and ensuring proper data type conversions.
+  - Dataset: https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset
 
 ### NBA Game Outcome Prediction using Web Scraping and Machine Learning (September 2023)
 - **File:** [`NBA_Outcome_Predictor.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/NBA_Outcome_Predictor.ipynb)
@@ -50,6 +51,7 @@ Feel free to navigate through the projects listed below, each providing a unique
   - Conducted in-depth analysis of a meticulously curated dataset, identifying correlations and dependencies, enabling data-informed decisions for educational institutions.
   - Leveraged Python libraries (*Pandas, Matplotlib, Seaborn*) to create compelling data visualizations that uncover patterns in student performance, showcasing data visualization capabilities.
   - Utilized a comprehensive dataset sourced from *Kaggle*, ensuring the relevance and accuracy of insights into student performance, highlighting data source management skills.
+  - Dataset: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 ### Top Movies Data Scraper and OMDb API Integration (May 2022)
 - **File:** [`Top_Movies.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/Top_Movies.ipynb)
