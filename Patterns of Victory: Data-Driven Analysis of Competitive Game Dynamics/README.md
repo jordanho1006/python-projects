@@ -27,7 +27,8 @@ By combining these features, the analysis highlights the drivers of victory in e
 - **Python:** Core programming language  
 - **Pandas / NumPy:** Data wrangling and cleaning  
 - **Matplotlib / Seaborn:** Data visualization  
-- **Scikit-learn:** Machine learning models  
+- **Scikit-learn:** Machine learning models
+- **Excel:** Initial data exploration and formatting  
 - **Jupyter / Colab Notebook:** Interactive analysis and documentation  
 
 ---
