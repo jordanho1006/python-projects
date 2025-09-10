@@ -19,7 +19,7 @@ Feel free to navigate through the projects listed below, each providing a unique
 ## Projects
 
 ### Patterns of Victory: Data-Driven Insights into Competitive Play (September 2025)
-- **File:** [`CS_GO_Competitive_Matchmaking_Data_Visualization_Analysis.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/Patterns%20of%20Victory%3A%20Data-Driven%20Insights%20into%20Competitive%20Play/CS_GO_Competitive_Matchmaking_Data_Visualization_Analysis.ipynb)
+- **File:** [`CS_GO_Competitive_Matchmaking_Data_Visualization_Analysis.ipynb`](https://github.com/jordanho1006/python-projects/tree/main/Patterns%20of%20Victory%3A%20Data-Driven%20Insights%20into%20Competitive%20Play)
 - **Objective:**
   - Analyze high-level CS:GO ESEA competitive matches to determine which factors most influence winning rounds, including map, round timing, player positions, weapon usage, team economy, and bomb status.
 - **Key Points:**
