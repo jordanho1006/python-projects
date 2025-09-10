@@ -7,15 +7,29 @@ Each project involves hands-on experience with Python libraries like Pandas, Mat
 Feel free to navigate through the projects listed below, each providing a unique perspective on data-driven decision-making.
 
 ## Project Index
-1. [Retail Transaction Insights](#retail-transaction-insights-through-data-visualization-and-machine-learning-november-2023)
-2. [NBA Game Outcome Prediction](#nba-game-outcome-prediction-using-web-scraping-and-machine-learning-september-2023)
-3. [Student Performance Data Visualization](#student-performance-data-visualization-june-2022)
-4. [Top Movies Data Scraper and OMDb API Integration](#top-movies-data-scraper-and-omdb-api-integration-may-2022)
-5. [CUNY Athlete Heights Data Scraper and Analysis](#cuny-athlete-heights-data-scraper-and-analysis-may-2022)
-6. [Valorant Player Stats Data Scraper and Analysis](#valorant-player-stats-data-scraper-and-analysis-may-2022)
-7. [U.S. City Weather Data Analysis with Openweathermap API](#us-city-weather-data-analysis-with-openweathermap-api-april-2022)
+1. [Patterns of Victory: Data-Driven Insights into Competitive Play](#patterns-of-victory-data-driven-insights-into-competitive-play-september-2025)
+2. [Retail Transaction Insights](#retail-transaction-insights-through-data-visualization-and-machine-learning-november-2023)
+3. [NBA Game Outcome Prediction](#nba-game-outcome-prediction-using-web-scraping-and-machine-learning-september-2023)
+4. [Student Performance Data Visualization](#student-performance-data-visualization-june-2022)
+5. [Top Movies Data Scraper and OMDb API Integration](#top-movies-data-scraper-and-omdb-api-integration-may-2022)
+6. [CUNY Athlete Heights Data Scraper and Analysis](#cuny-athlete-heights-data-scraper-and-analysis-may-2022)
+7. [Valorant Player Stats Data Scraper and Analysis](#valorant-player-stats-data-scraper-and-analysis-may-2022)
+8. [U.S. City Weather Data Analysis with Openweathermap API](#us-city-weather-data-analysis-with-openweathermap-api-april-2022)
 
 ## Projects
+
+### Patterns of Victory: Data-Driven Insights into Competitive Play (September 2025)
+- **File:** [`CS_GO_Competitive_Matchmaking_Data_Visualization_Analysis.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/Patterns%20of%20Victory%3A%20Data-Driven%20Insights%20into%20Competitive%20Play/CS_GO_Competitive_Matchmaking_Data_Visualization_Analysis.ipynb)
+- **Objective:**
+  - Analyze high-level CS:GO ESEA competitive matches to determine which factors most influence winning rounds, including map, round timing, player positions, weapon usage, team economy, and bomb status.
+- **Key Points:**
+  - Conducted **large-scale data cleaning and preparation** on over 2 million events, including feature selection, coordinate transformations, and alignment with radar map visuals.
+  - Performed **exploratory data analysis (EDA)** and created interactive visualizations (radar heatmaps, bar charts, temporal plots) to uncover map-specific trends and strategic patterns.
+  - Developed **predictive machine learning models** (Logistic Regression and Random Forest) to estimate round winners and analyze feature importance, demonstrating advanced modeling and feature engineering capabilities.
+- **Technical Details:**
+  - Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Excel
+  - Showcased end-to-end workflow: data collection, cleaning, EDA, visualization, predictive modeling, and reporting insights.
+  - Dataset: [CS:GO Competitive Matchmaking Data (ESEA) – Kaggle](https://www.kaggle.com/datasets/skihikingkevin/csgo-matchmaking-damage)
 
 ### Retail Transaction Insights through Data Visualization and Machine Learning (November 2023)
 - **File:** [`Retail_Transaction_Insights.ipynb`](https://github.com/jordanho1006/python-projects/blob/main/Retail_Transaction_Insights.ipynb)
