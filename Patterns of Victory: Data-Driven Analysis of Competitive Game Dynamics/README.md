@@ -156,7 +156,6 @@ Ultimately, this project shows how data analytics can uncover actionable insight
 ---
 
 ## 📂 Files Included
-https://github.com/jordanho1006/python-projects/blob/main/Patterns%20of%20Victory%3A%20Data-Driven%20Analysis%20of%20Competitive%20Game%20Dynamics/CS_GO_Competitive_Matchmaking_Data_Visualization_Analysis.ipynb
 - ['CS_GO_Competitive_Matchmaking_Data_Visualization_Analysis.ipynb'](https://github.com/jordanho1006/python-projects/blob/main/Patterns%20of%20Victory%3A%20Data-Driven%20Analysis%20of%20Competitive%20Game%20Dynamics/CS_GO_Competitive_Matchmaking_Data_Visualization_Analysis.ipynb): This Colab notebook containing all code for data cleaning, analysis, visualization, and machine learning 
 - ['README.md'](https://github.com/jordanho1006/python-projects/blob/main/Patterns%20of%20Victory%3A%20Data-Driven%20Analysis%20of%20Competitive%20Game%20Dynamics/README.md): This document provides a comprehensive overview of the project, including objectives, methodology, insights, and future work  
 
